@@ -142,6 +142,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ardianchen/ardianchen/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ardianchen/output/snake.svg" alt="Snake animation" />
 
 ###
